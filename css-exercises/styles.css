@@ -1,3 +1,20 @@
+.bluev {
+  color : blue;
+  font-family: Verdana;
+}
+
+.center {
+  text-align: center;
+  color : red;
+}
+
+
+#id1 {
+  color : blue;
+  font-family: Verdana;
+  
+}
+
 p {
   color : red;
 }
@@ -6,3 +23,5 @@ h1 {
   color : blue; 
   font-size: 34px;
 }
+  
+  
