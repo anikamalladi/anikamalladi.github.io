@@ -1,0 +1,30 @@
+.content {
+  background-color:#ffffff;
+}
+
+.content p {
+  font-family:"Trebuchet MS", sans-serif;
+  color:black;
+}
+
+.fstyle {
+  font: bold 35px "Trebuchet MS" ;
+  text-align: center;
+}
+
+.subfstyle {
+  font: italic 25px "Trebuchet MS";
+  text-align: center;
+}
+
+.linkfstyle {
+  font: italic 15px "Trebuchet MS";
+}
+
+.titlefstyle {
+  font: bold 22px "Trebuchet MS";
+}
+
+.textfstyle {
+  font: 15px "Trebuchet MS";
+}
