@@ -1,4 +1,8 @@
-<html><head></head><body><h1>Raspberry Pi Status: rpi04</h1>
+<html>
+<head>
+</head>
+<body>
+<h1>Raspberry Pi Status: rpi04</h1>
 <h2>Host Info</h2>
 <li>Host name : rpi04</li>
 <li>IP Address: 172.19.193.252 </li>
@@ -31,4 +35,5 @@ root      5753  0.3  4.7 199416 45260 tty7     Ssl+ 09:30   0:36 /usr/lib/xorg/X
 root       448  0.0  2.0 119924 19524 ?        Ss   Jun04   0:29 /usr/sbin/apache2 -k star
 student2 18549  0.0  1.1  91940 10728 ?        Ssl  Jun07   0:00 /usr/lib/gvfs/gvfs-udisks
 student1 10527  0.0  1.0  92964  9720 ?        Ssl  Jun06   0:00 /usr/lib/gvfs/gvfs-udisks</pre>
-</body></html>
+</body>
+</html>
